@@ -1,0 +1,11 @@
+{
+  "files": [
+    "aot/*.html"
+  ],
+  "server": {
+    "baseDir": "aot",
+    "routes": {
+    }
+  },
+  "open": false
+}
