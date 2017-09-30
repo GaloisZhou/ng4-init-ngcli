@@ -14,4 +14,17 @@ e2e/**/*.js
 e2e/**/*.js.map
 _test-output
 _temp
+
+dist
 aot
+
+
+e2e/app.po.ngsummary.json
+src/app/app.module.ngfactory.ts
+src/app/app.module.ngsummary.json
+src/app/components/app/app.component.ngfactory.ts
+src/app/components/app/app.component.ngsummary.json
+src/app/components/app/app.component.scss.shim.ngstyle.ts
+src/environments/environment.ngsummary.json
+src/environments/environment.prod.ngsummary.json
+
