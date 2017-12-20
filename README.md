@@ -1,9 +1,8 @@
-# ng4 init with ng-cli
+# ng4.2.4 init with ng-cli
 
 ## install global tools
 
 ```
-sudo npm install -g @angular/cli
 
 npm i -d
 
