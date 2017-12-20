@@ -1,6 +1,10 @@
 # ng4.2.4 init with ng-cli
 
-## install global tools
+## AOT in this project is only support for angular 4.2.4.
+
+Angular 5 is more convenience to compress js and css/scss, which olny need add `--prod`.
+
+## First Time
 
 ```
 
